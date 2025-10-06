@@ -1,0 +1,2 @@
+# Product-Weight-Optimisation-to-Reduce-Giveaway---Causal-Inference-Analysis
+The project leverages Causal Inference, Combinatorial and Advanced Analytics to systematically reduce product "giveaway" in a high-volume soft cheese manufacturing process. At the start of the project, weight variation in the target soft cheese product led to an annual giveaway costing the business significant six-figure losses.
